@@ -1,38 +1,34 @@
-DuoNova@LTEDI 2026: Span Detection and Counter-Narrative Generation
-This repository contains the implementation and outputs for our submission to the LT-EDI @ ACL 2026 Shared Task on Counter-Narrative Generation on Homophobic and Transphobic Comments.
+# Multilingual Hate Speech Detection & Counter-Narrative Generation
 
-Team
-DuoNova Arohi Rawat Manasa S
+## Overview
+This project detects homophobic and transphobic spans in text and generates counter-narratives using transformer-based models.
 
-Repository Contents
-The repository contains two compressed folders:
+## Features
+- Span detection using token classification
+- Counter-narrative generation using seq2seq models
+- Multilingual support (English, Tamil, Hindi)
 
-Task1.zip – Code and outputs for Task 1: Span Detection
+## Tech Stack
+- Python
+- HuggingFace Transformers
+- FLAN-T5, mT5
 
-Task2.zip – Code and outputs for Task 2: Counter-Narrative Generation
+## Results
+- Rank 2 in span detection (LT-EDI @ ACL 2026)
 
-Important Note
-GitHub cannot preview .ipynb files inside ZIP archives. To view the code and outputs:
+## How It Works
+1. Input text is tokenized
+2. Model detects harmful spans
+3. Model generates counter-narrative response
 
-Download the ZIP file.
-Extract it on your local machine.
-Open the .ipynb files using a code editor
+## How to Run
+- Open notebook in Google Colab
+- Install requirements
+- Run all cells
 
-Tasks
+## Project Report
+Paper: [link or PDF]
 
-Task 1: Span Detection
-Identification of homophobic and transphobic spans in comments for the following languages:
-English
-Tamil
-Hindi
-
-Task 2: Counter-Narrative Generation
-Generation of polite and contextual counter-narratives for abusive comments in:
-English
-Tamil
-
-Dataset
-LT-EDI @ ACL 2026 Shared Task Dataset.
-
-Paper
-The system description paper is submitted to the Sixth Workshop on Speech, Vision, and Language Technologies for Dravidian Languages (LT-EDI 2026).
+## Contributors
+- Arohi Rawat
+- Manasa S
