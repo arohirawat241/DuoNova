@@ -26,9 +26,6 @@ This project detects homophobic and transphobic spans in text and generates coun
 - Install requirements
 - Run all cells
 
-## Project Report
-Paper: [link or PDF]
-
 ## Contributors
 - Arohi Rawat
 - Manasa S
