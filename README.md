@@ -17,7 +17,9 @@ GitHub cannot preview .ipynb files inside ZIP archives. To view the code and out
 Download the ZIP file.
 Extract it on your local machine.
 Open the .ipynb files using a code editor
+
 Tasks
+
 Task 1: Span Detection
 Identification of homophobic and transphobic spans in comments for the following languages:
 English
