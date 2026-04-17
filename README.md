@@ -8,7 +8,9 @@ Repository Contents
 The repository contains two compressed folders:
 
 Task1.zip – Code and outputs for Task 1: Span Detection
+
 Task2.zip – Code and outputs for Task 2: Counter-Narrative Generation
+
 Important Note
 GitHub cannot preview .ipynb files inside ZIP archives. To view the code and outputs:
 
@@ -18,15 +20,15 @@ Open the .ipynb files using a code editor
 Tasks
 Task 1: Span Detection
 Identification of homophobic and transphobic spans in comments for the following languages:
-
 English
 Tamil
 Hindi
+
 Task 2: Counter-Narrative Generation
 Generation of polite and contextual counter-narratives for abusive comments in:
-
 English
 Tamil
+
 Dataset
 LT-EDI @ ACL 2026 Shared Task Dataset.
 
